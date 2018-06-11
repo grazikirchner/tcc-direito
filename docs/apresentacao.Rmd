@@ -1,0 +1,158 @@
+---
+title: "Direito Constitucional"
+subtitle: "Dos Princípios Fundamentais à Constituição Econômica"
+author: "Inês Grazieli Kirchner"
+date: "11/06/2018"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    self_contained: TRUE
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    css: ["default", "estilo.css"]
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: inverse, center, middle
+
+# Apresentação
+
+---
+
+# A Economia e o Direito
+
+--
+
+* Evolução histórica;
+  - Estado e forma política;
+
+--
+
+* Influência de uma sobre a outra;
+
+--
+
+* A importância de caminharem juntas;
+
+--
+
+* Ineficácia do uso da força da lei para fixação de variáveis econômicas (juros, inflação, preços, desemprego)
+---
+
+# Sistema Financeiro Nacional
+
+
+--
+
+* Autoridades Monetárias;
+
+--
+
+* Legislação reguladora;
+
+--
+
+* Inflação;
+
+--
+
+* Taxa de inflação.
+---
+
+# Princípios Fundamentais
+
+--
+
+* Constituição Federal;
+
+--
+
+* Direito ao trabalho;
+
+--
+
+* Direito ao trabalho na DUDH;
+
+---
+
+# Ciências Sociais
+
+--
+
+* O que são e como interagem entre si;
+
+--
+
+* Ciência Econômica;
+
+---
+
+# O Direito ao trabalho
+
+--
+
+* Trabalho livre em um país capitalista;
+
+--
+
+* Desemprego crônico;
+
+---
+
+# Responsabilidades Institucionais
+
+--
+
+* Garantia do pleno-emprego;
+
+---
+
+# Comparação decreto sobre inflação no Brasil com norte-americano (FED)
+
+--
+
+* Promoção do pleno-emprego;
+
+-- 
+
+> O Conselho de Governadores do Sistema do Federal Reserve e o Federal Open Market Committee manterão o crescimento de longo prazo dos agregados monetários e de crédito compatíveis com o potencial de longo prazo da economia para aumentar a produção, de modo a **promover eficazmente os objetivos de máximo emprego, preços estáveis, e taxas de juros de longo prazo moderadas**.
+
+---
+
+# André Lara Resende
+
+--
+
+* Artigo;
+
+--
+
+* Debate 2017;
+
+* Prêmio Nobel 2017;
+
+* Expectativas Racionais;
+
+---
+
+# Populismo
+
+* Fiscal;
+
+* Cambial;
+
+---
+
+# ADI
+
+---
+
+# CONCLUSÃO
+
+* Medidas para fomentar a economia nacional
+* Norma regulamentadora para o BC.

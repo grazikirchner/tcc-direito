@@ -1,0 +1,21 @@
+.remark-slide-content {
+  background-size: contain;
+}
+.footnote {	 
+   position: absolute;	  
+   bottom: 3em;	  
+   padding-right: 4em;
+   font-size: 90%;
+}
+.image-30 img {
+  width: 30%;
+}
+.image-50 img {
+  width: 50%;
+}
+.image-70 img {
+  width: 70%;
+}
+.image-90 img {
+  width: 90%;
+}
