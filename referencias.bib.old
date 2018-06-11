@@ -1,0 +1,955 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF8
+
+
+@InBook{cochrane,
+  Title                    = {{Michelson-Morley, Fisher, and Occam: The Radical Implications of Stable Quiet Inflation at the Zero Bound}},
+  Author                   = {Cochrane, John H.},
+  Publisher                = {University of Chicago Press},
+  Year                     = {2017},
+  Month                    = {June},
+
+  Booktitle                = {{NBER Macroeconomics Annual 2017, volume 32}},
+  Crossref                 = {NBEReich-4},
+  Url                      = {http://www.nber.org/chapters/c13911}
+}
+
+@TechReport{ri,
+  Title                    = {{Relatório de inflação}},
+  Author                   = {{Banco Central do Brasil}},
+  Year                     = {2017},
+
+  Address                  = {Brasília},
+  Number                   = {1},
+
+  Organization             = {Governo Federal},
+  Volume                   = {19}
+}
+
+@Other{baracho,
+  Title                    = {{O princípio de subsidariedade: conceito e evolução}},
+  Author                   = {Baracho, José Alfredo de Oliveira},
+  Journal                  = {Cadernos de direito constitucinal e ciência política},
+  Volume                   = {19}
+}
+
+@Article{barbosa,
+  Title                    = {{Taxa real de juro: evolução e perspectivas}},
+  Author                   = {Barbosa, Nelson},
+  Journal                  = {Valor Econômico},
+  Year                     = {2017},
+
+  Month                    = {24 fev.},
+
+  Url                      = {http://www.valor.com.br/cultura/4879800/taxa-real-de-juro-evolucao-e-perspectivas},
+  Urlaccessdate            = {27 mar. 2017}
+}
+
+@Other{barile,
+  Title                    = {{Diritti dell'uomo e libertà fondamentali}},
+  Address                  = {Bolonha},
+  Author                   = {Barile, Paolo},
+  Publisher                = {Il Molino},
+  Year                     = {1985}
+}
+
+@Article{belluzo,
+  Title                    = {{Metas de inflação e os ardis da razão}},
+  Author                   = {Belluzo, Luiz and Galípolo, Gabriel},
+  Journal                  = {Valor Econômico},
+  Year                     = {2017},
+
+  Month                    = {07 fev.},
+
+  Url                      = {http://www.valor.com.br/opiniao/4860762/metas-de-inflacao-e-os-ardis-da-razao},
+  Urlaccessdate            = {27 mar. 2017}
+}
+
+@Book{blanchard,
+  Title                    = {{Macroeconomia}},
+  Author                   = {Blanchard, Olivier},
+  Publisher                = {Pearson Prentice Hall},
+  Year                     = {2007},
+
+  Address                  = {São Paulo},
+  Edition                  = {4},
+
+  Furtherresp              = {Tradução de Cláudia Martins e Mônica Rosemberg. Revisão Técnica: Eliezer Martins Diniz}
+}
+
+@Other{Blinder,
+  Title                    = {{Is There A Core of Practical Macroeconomics That We Should All Believe?}},
+  Author                   = {Blinder, Alain S.},
+  Journal                  = {American Economic Review},
+  Month                    = {May},
+  Pages                    = {240--243},
+  Volume                   = {87 (2)},
+  Year                     = {1997}
+}
+
+@Article{Bresser-Pereira1973,
+  Title                    = {{A função investimento e a eficiência marginal do capital}},
+  Author                   = {Bresser-Pereira, Luiz Carlos},
+  Year                     = {1973},
+  Pages                    = {9},
+
+  Address                  = {São Paulo},
+  Keywords                 = {eficiência marginal do capital; função investimento},
+  Organization             = {Fundação Getúlio Vargas},
+  Url                      = {http://www.bresserpereira.org.br/works/casos/73.Fun%C3%A7%C3%A3oInvestimento_EficienciaMarginalDoCapital.pdf},
+  Urlaccessdate            = {28 mai. 2017}
+}
+
+@Other{brito2005,
+  Title                    = {{XXX}},
+  Author                   = {Brito, XXX},
+  Year                     = {2005}
+}
+
+@Other{canotilho,
+  Title                    = {{Fundamentos da Constituição}},
+  Author                   = {Canotilho, J. J. Gomes and Moreira, Vital},
+  Year                     = {1987}
+}
+
+@InBook{carvalhosa1973,
+  Title                    = {{Direito Econômico}},
+  Author                   = {Carvalhosa, Modesto},
+  Pages                    = {29--394},
+  Publisher                = {Revista dos Tribunais},
+  Year                     = {1973},
+
+  Address                  = {São Paulo},
+  Edition                  = {2013},
+
+  Booksubtitle             = {Obras Complestas},
+  Booktitle                = {{Direito Econômico}}
+}
+
+@InBook{carvalhosa1972,
+  Title                    = {{A Ordem Econômica na Constituição de 1969}},
+  Author                   = {Carvalhosa, Modesto},
+  Pages                    = {535--686},
+  Publisher                = {Revista dos Tribunais},
+  Year                     = {1972},
+
+  Address                  = {São Paulo},
+  Edition                  = {2013},
+
+  Booksubtitle             = {Obras Complestas},
+  Booktitle                = {{Direito Econômico}}
+}
+
+@InBook{carvalhosa1967,
+  Title                    = {{Poder Econômico}},
+  Author                   = {Carvalhosa, Modesto},
+  Pages                    = {403--527},
+  Publisher                = {Revista dos Tribunais},
+  Year                     = {1967},
+
+  Address                  = {São Paulo},
+  Edition                  = {2013},
+
+  Booksubtitle             = {Obras Complestas},
+  Booktitle                = {{Direito Econômico}}
+}
+
+@Article{coutinho,
+  Title                    = {{O porquê dos juros altos}},
+  Author                   = {Coutinho, Luciano},
+  Journal                  = {Valor Econômico},
+  Year                     = {2017},
+
+  Month                    = {10 fev.},
+
+  Url                      = {http://www.valor.com.br/opiniao/4864602/o-porque-dos-juros-altos},
+  Urlaccessdate            = {27 mar. 2017}
+}
+
+@Misc{drummond,
+  Title                    = {{Liberdade e economia na filosofia do direito de Hegel}},
+
+  Author                   = {Drummond, Arnaldo Fortes},
+
+  Url                      = {http://www.fafich.ufmg.br/~leonarva/GT%20HEGEL_arquivos/Textosparavotar_arquivos/Arnaldo.pdf},
+  Urlaccessdate            = {19 mai. 2017}
+}
+
+@Other{eggertsson,
+  Title                    = {{The Paradox of Toil}},
+  Author                   = {Eggertsson, Gauti},
+  Institution              = {Federal Reserve Bank of New York},
+  Number                   = {433},
+  Series                   = {{Staff Report}},
+  Type                     = {Working Paper},
+  Year                     = {2010}
+}
+
+@Book{fortuna2015,
+  Title                    = {{Mercado Financeiro}},
+  Author                   = {Fortuna, Eduardo},
+  Publisher                = {Qualitymark},
+  Year                     = {2015},
+
+  Address                  = {Rio de Janeiro},
+  Edition                  = {20},
+
+  Subtitle                 = {Produtos e Serviços}
+}
+
+@TechReport{Gordon,
+  Title                    = {{The Time-Varying NAIRU and its Implications for Economic Policy}},
+  Author                   = {Gordon, Robert J.},
+  Institution              = {National Bureau of Economic Research},
+  Year                     = {1996},
+  Month                    = {August},
+  Number                   = {5735},
+  Type                     = {Working Paper},
+
+  Doi                      = {10.3386/w5735},
+  Series                   = {{Working Paper Series}},
+  Url                      = {http://www.nber.org/papers/w5735}
+}
+
+@Other{guetzevitch,
+  Title                    = {{As novas tendências do direito constitucional}},
+  Author                   = {Guetzévitch, Mirkine},
+  Year                     = {1933}
+}
+
+@Article{lisboapessoa,
+  Title                    = {{Nada de novo no debate monetário no Brasil}},
+  Author                   = {Lisboa, Marcos and Pessoa, Samuel},
+  Journal                  = {Valor Econômico},
+  Year                     = {2017},
+
+  Month                    = {20 jan.},
+
+  Url                      = {http://www.valor.com.br/cultura/4842254/nada-de-novo-no-debate-monetario-no-brasil},
+  Urlaccessdate            = {27 mar. 2017}
+}
+
+@Article{lopes,
+  Title                    = {{André Cochrane e a teoria fiscal dos preços}},
+  Author                   = {Lopes, Francisco Lafaiete de Pádua},
+  Journal                  = {Valor Econômico},
+  Year                     = {2017},
+
+  Month                    = {17 fev.},
+
+  Url                      = {http://www.valor.com.br/cultura/4872458/andre-cochrane-e-teoria-fiscal-dos-precos},
+  Urlaccessdate            = {27 mar. 2017}
+}
+
+@Article{loyo,
+  Title                    = {{Neofisherianismo: vai entender}},
+  Author                   = {Loyo, Eduardo},
+  Journal                  = {Valor Econômico},
+  Year                     = {2017},
+
+  Month                    = {03 fev.},
+
+  Url                      = {http://www.valor.com.br/cultura/4857030/neofisherianismo-vai-entender},
+  Urlaccessdate            = {27 mar. 2017}
+}
+
+@TechReport{mankiw2000,
+  Title                    = {{The Inexorable and Mysterious Tradeoff Between Inflation and Unemployment}},
+  Author                   = {Mankiw, N. Gregory},
+  Institution              = {National Bureau of Economic Research},
+  Year                     = {2000},
+  Month                    = {September},
+  Number                   = {7884},
+  Type                     = {Working Paper},
+
+  Doi                      = {10.3386/w7884},
+  Series                   = {{Working Paper Series}},
+  Url                      = {http://www.nber.org/papers/w7884},
+  Urlaccessdate            = {23 jun. 2017}
+}
+
+@TechReport{mankiw2011,
+  Title                    = {{An Exploration of Optimal Stabilization Policy}},
+  Author                   = {Mankiw, N. Gregory and Weinzierl, Matthew C.},
+  Institution              = {National Bureau of Economic Research},
+  Year                     = {2011},
+  Month                    = {May},
+  Number                   = {17029},
+  Type                     = {Working Paper},
+
+  Doi                      = {10.3386/w17029},
+  Series                   = {{Working Paper Series}},
+  Url                      = {http://www.nber.org/papers/w17029},
+  Urlaccessdate            = {23 jun. 2017}
+}
+
+@Book{mascaro,
+  Title                    = {{Estado e forma política}},
+  Author                   = {Mascaro, Alysson Leandro},
+  Publisher                = {Boitempo editorial},
+  Year                     = {2013},
+
+  Address                  = {São Paulo},
+  Edition                  = {1}
+}
+
+@Book{moraes,
+  Title                    = {{Direito Constitucional}},
+  Author                   = {de Moraes, Alexandre},
+  Publisher                = {Atlas},
+  Year                     = {2016},
+
+  Address                  = {São Paulo},
+  Edition                  = {32}
+}
+
+@Other{moreira,
+  Title                    = {{Economia e constituição}},
+  Author                   = {Moreira, Vital},
+  Year                     = {1974}
+}
+
+@Article{nakano,
+  Title                    = {{Aritmética monetarista desagradável}},
+  Author                   = {Nakano, Yoshiaki},
+  Journal                  = {Valor Econômico},
+  Year                     = {2017},
+
+  Month                    = {02 fev.},
+
+  Url                      = {http://www.valor.com.br/opiniao/4855902/aritmetica-monetarista-desagradavel},
+  Urlaccessdate            = {27 mar. 2017}
+}
+
+@InBook{Nusdeo,
+  Title                    = {{Prefácio à obra "Direito Econômico"}},
+  Author                   = {Nusdeo, Fábio},
+  Pages                    = {18--28},
+  Publisher                = {Revista dos Tribunais},
+  Year                     = {2013},
+
+  Address                  = {São Paulo},
+  Note                     = {(Prefácio)},
+
+  Booksubtitle             = {Obras Completas},
+  Booktitle                = {{Direito Econômico}},
+  Organization             = {Modesto Carvalhosa}
+}
+
+@Book{passosnogami,
+  Title                    = {{Princípios de Economia}},
+  Author                   = {Passos, Carlos Roberto Martins and Nogami, Otto},
+  Publisher                = {Cengage Learning},
+  Year                     = {2012},
+
+  Address                  = {São Paulo},
+  Edition                  = {6}
+}
+
+@Article{pereira,
+  Title                    = {{O centenário de Ignácio Rangel}},
+  Author                   = {Pereira, José Maria Dias},
+  Journal                  = {Revista de Economia Política},
+  Year                     = {2014},
+  Volume                   = {34},
+
+  Address                  = {São Paulo},
+  Url                      = {doi:10.1590/S0101-31572014000400003},
+  Urlaccessdate            = {27 mai. 2017}
+}
+
+@InBook{rangel1956,
+  Title                    = {{Desenvolvimento e Projeto}},
+  Author                   = {Rangel, Ignácio},
+  Pages                    = {203--283},
+  Publisher                = {Contraponto},
+  Year                     = {2012},
+
+  Address                  = {Rio de Janeiro},
+  Edition                  = {3},
+  Volume                   = {1},
+
+  Booksubtitle             = {Obras Reunidas},
+  Booktitle                = {{Ignácio Rangel}},
+  Organization             = {César Benjamin}
+}
+
+@InBook{rangel1957,
+  Title                    = {{Dualidade Básica da Economia Brasileira}},
+  Author                   = {Rangel, Ignácio},
+  Pages                    = {285--353},
+  Publisher                = {Contraponto},
+  Year                     = {2012},
+
+  Address                  = {Rio de Janeiro},
+  Edition                  = {3},
+  Volume                   = {1},
+
+  Booksubtitle             = {Obras Reunidas},
+  Booktitle                = {{Ignácio Rangel}},
+  Organization             = {César Benjamin}
+}
+
+@InBook{rangel1960,
+  Title                    = {{Inflação e Desenvolvimento}},
+  Author                   = {Rangel, Ignácio},
+  Pages                    = {185--188},
+  Publisher                = {Contraponto},
+  Year                     = {2012},
+
+  Address                  = {Rio de Janeiro},
+  Edition                  = {3},
+  Volume                   = {2},
+
+  Booksubtitle             = {Obras Reunidas},
+  Booktitle                = {{Ignácio Rangel}},
+  Organization             = {César Benjamin}
+}
+
+@InBook{rangel1961,
+  Title                    = {{O papel da inflação}},
+  Author                   = {Rangel, Ignácio},
+  Pages                    = {228--230},
+  Publisher                = {Contraponto},
+  Year                     = {2012},
+
+  Address                  = {Rio de Janeiro},
+  Edition                  = {3},
+  Volume                   = {2},
+
+  Booksubtitle             = {Obras Reunidas},
+  Booktitle                = {{Ignácio Rangel}},
+  Organization             = {César Benjamin}
+}
+
+@InBook{rangel1963,
+  Title                    = {{A Inflação Brasileira}},
+  Author                   = {Rangel, Ignácio},
+  Pages                    = {551--679},
+  Publisher                = {Contraponto},
+  Year                     = {2012},
+
+  Address                  = {Rio de Janeiro},
+  Edition                  = {3},
+  Volume                   = {1},
+
+  Booksubtitle             = {Obras Reunidas},
+  Booktitle                = {{Ignácio Rangel}},
+  Organization             = {César Benjamin}
+}
+
+@InBook{rangel1983,
+  Title                    = {Desindexação},
+  Author                   = {Rangel, Ignácio},
+  Pages                    = {411--412},
+  Publisher                = {Contraponto},
+  Year                     = {2012},
+
+  Address                  = {Rio de Janeiro},
+  Edition                  = {3},
+  Volume                   = {2},
+
+  Booksubtitle             = {Obras Reunidas},
+  Booktitle                = {{Ignácio Rangel}},
+  Organization             = {César Benjamin}
+}
+
+@InBook{rangel1985a,
+  Title                    = {A inflação e os Juros},
+  Author                   = {Rangel, Ignácio},
+  Pages                    = {464--466},
+  Publisher                = {Contraponto},
+  Year                     = {2012},
+
+  Address                  = {Rio de Janeiro},
+  Edition                  = {3},
+  Volume                   = {2},
+
+  Booksubtitle             = {Obras Reunidas},
+  Booktitle                = {{Ignácio Rangel}},
+  Organization             = {César Benjamin}
+}
+
+@InBook{rangel1985b,
+  Title                    = {{A lei e o juro}},
+  Author                   = {Rangel, Ignácio},
+  Pages                    = {466--469},
+  Publisher                = {Contraponto},
+  Year                     = {2012},
+
+  Address                  = {Rio de Janeiro},
+  Edition                  = {3},
+  Volume                   = {2},
+
+  Booksubtitle             = {Obras Reunidas},
+  Booktitle                = {{Ignácio Rangel}},
+  Organization             = {César Benjamin}
+}
+
+@InBook{rangel1987,
+  Title                    = {{O papel dos serviços de utilidade pública}},
+  Author                   = {Rangel, Ignácio},
+  Pages                    = {712--725},
+  Publisher                = {Contraponto},
+  Year                     = {2012},
+
+  Address                  = {Rio de Janeiro},
+  Edition                  = {3},
+  Volume                   = {2},
+
+  Booksubtitle             = {Obras Reunidas},
+  Booktitle                = {{Ignácio Rangel}},
+  Organization             = {César Benjamin}
+}
+
+@Article{resende1,
+  Title                    = {{Juros e Conservadorismo Intelectual}},
+  Author                   = {Resende, André Lara},
+  Journal                  = {Valor Econômico},
+  Year                     = {2017},
+
+  Month                    = {13 jan.},
+
+  Url                      = {http://www.valor.com.br/cultura/4834784/juros-e-conservadorismo-intelectual},
+  Urlaccessdate            = {27 mar. 2017}
+}
+
+@Article{resende2,
+  Title                    = {{Teoria, prática e bom senso}},
+  Author                   = {Resende, André Lara},
+  Journal                  = {Valor Econômico},
+  Year                     = {2017},
+
+  Month                    = {27 jan.},
+
+  Url                      = {http://www.valor.com.br/cultura/4849060/teoria-pratica-e-bom-senso},
+  Urlaccessdate            = {27 mar. 2017}
+}
+
+@Book{resende2017,
+  Title                    = {{Juros, Moeda e Ortodoxia}},
+  Author                   = {Resende, André Lara},
+  Publisher                = {Portfolio-Penguin},
+  Year                     = {2017},
+
+  Address                  = {São Paulo},
+  Edition                  = {1},
+
+  Subtitle                 = {teorias monetárias e controvérsias políticas}
+}
+
+@Book{rossetti,
+  Title                    = {{Introdução à Economia}},
+  Author                   = {Rossetti, José Paschoal},
+  Publisher                = {Atlas},
+  Year                     = {2014},
+
+  Address                  = {São Paulo},
+  Edition                  = {20}
+}
+
+@Book{beatrizselan,
+  Title                    = {{Mercado Financeiro}},
+  Author                   = {Selan, Beatriz},
+  Publisher                = {SESES},
+  Year                     = {2014},
+
+  Address                  = {Rio de Janeiro},
+
+  Url                      = {https://www.passeidireto.com/disciplina/mercado-financeiro?arquivo=25937863},
+  Urlaccessdate            = {19 mai. 2017}
+}
+
+@Book{Seldom,
+  Title                    = {{Dic. de Economia}},
+  Author                   = {Seldom and Pennance},
+  Editor                   = {Bloch},
+  Year                     = {1968},
+
+  Vol                      = {1}
+}
+
+@Article{senna,
+  Title                    = {{Taxa de Juros e Inflação}},
+  Author                   = {Senna, José Júlio},
+  Journal                  = {Valor Econômico},
+  Year                     = {2017},
+
+  Url                      = {http://www.valor.com.br/cultura/4864408/taxa-de-juros-e-inflacao},
+  Urlaccessdate            = {27 mar. 2017}
+}
+
+@Book{singer,
+  Title                    = {{O que é economia}},
+  Author                   = {Singer, Paul},
+  Publisher                = {Contexto},
+  Year                     = {2005},
+
+  Address                  = {São Paulo},
+  Edition                  = {6},
+
+  Date-added               = {2013-08-21 13:56:10 +0000},
+  Date-modified            = {2013-08-21 13:56:10 +0000},
+  Organization             = {https://www.passeidireto.com/arquivo/19292334/o-que-e-economia---paul-singer},
+  Urlaccessdate            = {12 abr 2017}
+}
+
+@Misc{reuters,
+  Title                    = {{In historic shift, Fed sets inflation target}},
+
+  Author                   = {Spicer, Jonathan},
+  Year                     = {2012},
+
+  Publisher                = {reuters},
+  Url                      = {http://www.reuters.com/article/us-usa-fed-inflation-target-idUSTRE80O25C20120126},
+  Urlaccessdate            = {25 mai. 2017}
+}
+
+@Book{weber,
+  Title                    = {{Ciência e Política: duas vocações}},
+  Author                   = {Weber, Max},
+  Publisher                = {Cultrix},
+  Year                     = {1997},
+
+  Address                  = {São Paulo},
+
+  Url                      = {http://geografialinks.com/site/wp-content/uploads/2010/03/Max_Weber_-_Cincia_e_Poltica.pdf},
+  Urlaccessdate            = {19 mai. 2017}
+}
+
+@Misc{historia,
+  Title                    = {{História --- {W}ikipedia{,} The Free Encyclopedia}},
+
+  Author                   = {Wikipedia},
+  Year                     = {2017},
+
+  Url                      = {https://pt.wikipedia.org/wiki/Hist%C3%B3ria},
+  Urlaccessdate            = {19 mai. 2017}
+}
+
+@Misc{inflationtargeting,
+  Title                    = {{Inflation Targeting --- {W}ikipedia{,} The Free Encyclopedia}},
+
+  Author                   = {Wikipedia},
+  Year                     = {2017},
+
+  Subtitle                 = {Estimando diferentes formas de Curva de Phillips},
+  Url                      = {https://en.wikipedia.org/wiki/Inflation_targeting},
+  Urlaccessdate            = {25 mai. 2017}
+}
+
+@Misc{religiao,
+  Title                    = {{Ciência da religião --- {W}ikipedia{,} The Free Encyclopedia}},
+
+  Author                   = {Wikipedia},
+  Year                     = {2017},
+
+  Url                      = {https://pt.wikipedia.org/wiki/Ci%C3%AAncia_da_religi%C3%A3o},
+  Urlaccessdate            = {19 mai. 2017}
+}
+
+@Unpublished{wilher,
+  Title                    = {{Curso de Macroeconometria usando o {R}}},
+  Author                   = {Wilher, Vítor},
+
+  Url                      = {http://analisemacro.com.br}
+}
+
+@Book{zizek,
+  Title                    = {{Um mapa da ideologia}},
+  Author                   = {Zizek, Slavoj},
+  Publisher                = {Contraponto},
+  Year                     = {1996},
+
+  Address                  = {Rio de Janeiro},
+
+  Url                      = {http://petdireito.ufsc.br/wp-content/uploads/2014/06/link.pdf},
+  Urlaccessdate            = {20 mai. 2017}
+}
+
+@Misc{debate,
+  Title                    = {{Debate dos Juros}},
+  Year                     = {2017},
+
+  Address                  = {Brasil},
+  Editor                   = {{Valor Econômico}},
+  Journal                  = {Valor Econômico},
+  Url                      = {http://www.valor.com.br/debatedosjuros},
+  Urlaccessdate            = {27 mar. 2017}
+}
+
+@Misc{fed1,
+  Title                    = {{Overview of the Federal Reserve System}},
+
+  Address                  = {Washington, EUA},
+  Organization             = {Federal Reserve},
+  Url                      = {https://www.federalreserve.gov/aboutthefed/files/pf_1.pdf},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Misc{fed2,
+  Title                    = {{The Three Key System Entities}},
+
+  Address                  = {Washington, EUA},
+  Organization             = {Federal Reserve},
+  Url                      = {https://www.federalreserve.gov/aboutthefed/files/pf_2.pdf},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Misc{SGS,
+  Title                    = {{Séries Temporais}},
+  Year                     = {2017},
+
+  Organization             = {Banco Central do Brasil},
+  Url                      = {http://www3.bcb.gov.br/sgspub},
+  Urlaccessdate            = {07 jun. 2017}
+}
+
+@Article{brasil2011,
+  Title                    = {{Lei nº 12.543, de 08 de dezembro de 2011. Autoriza o Conselho Monetário Nacional, para fins de política monetária e cambial, a estabelecer condições específicas para negociaçã de contratos derivativos; altera os arts. 2º e 3º da Lei no 6.385, de 7 de dezembro de 1976, o inciso IV do art. 3º do Decreto-Lei nº 1.783, de 18 de abril de 1980, os arts. 1º, 2º e 3º da Lei nº 8.894, de 21 de junho de 1994, e a Lei nº 10.931, de 2 de agosto de 2004; e dá outras providências.}},
+  Journal                  = {Diário Oficial da República Federativa do Brasil},
+  Year                     = {2011},
+
+  Month                    = {08 dez.},
+
+  Address                  = {Brasília, DF},
+  Organization             = {Brasil},
+  Url                      = {http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12543.htm},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Article{ec40,
+  Title                    = {{Constituição (1988). Emenda constitucional nº 40, de 29 de maio de 2003. Altera o inciso V do art. 163 e o art. 192 da Constituição Federal, e o caput do art. 52 do Ato das Disposições Constitucionais Transitórias.}},
+  Year                     = {2003},
+
+  Month                    = {29 mai.},
+
+  Address                  = {Brasília},
+  Organization             = {Brasil},
+  Url                      = {http://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc40.htm#art2},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Article{bcb2002,
+  Title                    = {{Resolução n.º 3.040, de 28 de novembro de 2002. Dispõe sobre os requisitos e procedimentos para a constituição, a autorização para funcionamento, a transferência de controle societário e a reorganização societária, bem como para o cancelamento da autorização para funcionamento das instituições que especifica.}},
+  Journal                  = {Diário Oficial da República Federativa do Brasil},
+  Year                     = {2002},
+
+  Month                    = {28 nov.},
+
+  Address                  = {Brasília, DF},
+  Organization             = {{Banco Central do Brasil}},
+  Url                      = {http://www.bcb.gov.br/pre/normativos/res/2002/pdf/res_3040_v4_L.pdf},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Article{brasil2002,
+  Title                    = {{Lei nº 10.411, de 26 de fevereiro de 2002. Altera e acresce dispositivos à Lei no 6.385, de 7 de dezembro de 1976, que dispõe sobre o mercado de valores mobiliários e cria a Comissão de Valores Mobiliários.}},
+  Journal                  = {Diário Oficial da República Federativa do Brasil},
+  Year                     = {2002},
+
+  Month                    = {26 fev.},
+
+  Address                  = {Brasília, DF},
+  Organization             = {Brasil},
+  Url                      = {http://www.planalto.gov.br/ccivil_03/LEIS/2002/L10411.htm},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Article{brasil2001a,
+  Title                    = {{Lei nº 10.303, de 31 de outubro de 2001. Altera e acrescenta dispositivos na Lei no 6.404, de 15 de dezembro de 1976, que dispõe sobre as Sociedades por Ações, e na Lei no 6.385, de 7 de dezembro de 1976, que dispõe sobre o mercado de valores mobiliários e cria a Comissão de Valores Mobiliários.}},
+  Journal                  = {Diário Oficial da República Federativa do Brasil},
+  Year                     = {2001},
+
+  Month                    = {31 out.},
+
+  Address                  = {Brasília, DF},
+  Organization             = {Brasil},
+  Url                      = {http://www.planalto.gov.br/ccivil_03/leis/LEIS_2001/L10303.htm},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Article{brasil2001b,
+  Title                    = {{Decreto nº 3.995, de 31 de outubro de 2001. Altera e acresce dispositivos à Lei no 6.385, de 7 de dezembro de 1976, que dispõe sobre o mercado de valores mobiliários, nas matérias reservadas a decreto.}},
+  Journal                  = {Diário Oficial da República Federativa do Brasil},
+  Year                     = {2001},
+
+  Month                    = {31 out.},
+
+  Address                  = {Brasília, DF},
+  Organization             = {Brasil},
+  Url                      = {http://www.planalto.gov.br/ccivil_03/decreto/2001/D3995.htm},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Article{brasil1999,
+  Title                    = {{Decreto nº 3.088, de 21 de junho de 1999. Estabelece a sistemática de "metas para a inflação" como diretriz para fixação do regime de política monetária e dá outras providências.}},
+  Journal                  = {Diário Oficial da República Federativa do Brasil},
+  Year                     = {1999},
+
+  Month                    = {11 jun.},
+
+  Address                  = {Brasília, DF},
+  Organization             = {Brasil},
+  Url                      = {http://www.planalto.gov.br/ccivil_03/decreto/D3088.htm},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Article{brasil1995,
+  Title                    = {{Lei nº 9.069, de 29 de junho de 1995. Dispõe sobre o Plano Real, o Sistema Monetário Nacional, estabelece as regras e condições de emissão do REAL e os critérios para conversão das obrigações para o Real, e dá outras providências.}},
+  Journal                  = {Diário Oficial da República Federativa do Brasil},
+  Year                     = {1995},
+
+  Month                    = {29 jun.},
+
+  Address                  = {Brasília, DF},
+  Organization             = {Brasil},
+  Url                      = {http://www2.camara.leg.br/legin/fed/lei/1995/lei-9069-29-junho-1995-372117-normaatualizada-pl.html},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Article{brasil1994,
+  Title                    = {{Medida Provisória nº 542, de 30 de junho de 1994. Dispõe sobre o Plano Real, o Sistema Monetário Nacional, estabelece as regras e condições de emissão do REAL e os critérios para conversão das obrigações para o Real, e dá outras providências.}},
+  Journal                  = {Diário Oficial da República Federativa do Brasil},
+  Year                     = {1994},
+
+  Month                    = {30 jun.},
+
+  Address                  = {Brasília, DF},
+  Organization             = {Brasil},
+  Url                      = {http://www2.camara.leg.br/legin/fed/medpro/1994/medidaprovisoria-542-30-junho-1994-375071-norma-pe.html},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Book{cf88,
+  Title                    = {{Constituição da República Federativa do Brasil}},
+  Publisher                = {Senado},
+  Year                     = {1988},
+
+  Address                  = {Brasília, DF},
+  Month                    = {5 out.},
+
+  Organization             = {Brasil},
+  Type                     = {Constituição (1988)},
+  Url                      = {http://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Article{brasil1986,
+  Title                    = {{Decreto-Lei nº 2.291, de 21 de novembro de 2002. Extingue o Banco Nacional da Habitação - {BNH}, e dá outras Providências.}},
+  Journal                  = {Diário Oficial da República Federativa do Brasil},
+  Year                     = {1986},
+
+  Month                    = {21 nov.},
+
+  Address                  = {Brasília, DF},
+  Organization             = {Brasil},
+  Url                      = {http://www.planalto.gov.br/ccivil_03/decreto-lei/del2291.htm},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Article{publaw95-188,
+  Title                    = {{Public Law 95-188}},
+  Journal                  = {U.S. Code},
+  Year                     = {1977},
+
+  Month                    = {16 nov.},
+
+  Address                  = {Washington, DC},
+  Org-short                = {US Congress},
+  Organization             = {{United States Congress}},
+  Section                  = {Title 12},
+  Url                      = {http://uscode.house.gov/statviewer.htm?volume=91&page=1387},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Article{brasil1976a,
+  Title                    = {{Lei nº 6.385, de 07 de dezembro de 1976. Dispõe sobre o mercado de valores mobiliários e cria a Comissão de Valores Mobiliários.}},
+  Journal                  = {Diário Oficial da República Federativa do Brasil},
+  Year                     = {1976},
+
+  Month                    = {07 dez.},
+
+  Address                  = {Brasília, DF},
+  Organization             = {Brasil},
+  Url                      = {http://www.planalto.gov.br/ccivil_03/leis/L6385.htm},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Article{brasil1976b,
+  Title                    = {{Lei nº 6.404, de 15 de dezembro de 1976. Dispõe sobre as Sociedades por Ações.}},
+  Journal                  = {Diário Oficial da República Federativa do Brasil},
+  Year                     = {1976},
+
+  Month                    = {15 dez.},
+
+  Address                  = {Brasília, DF},
+  Organization             = {Brasil},
+  Url                      = {http://www.planalto.gov.br/ccivil_03/leis/L6404compilada.htm},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Article{brasil1965,
+  Title                    = {{Lei nº 4.728, de 14 de julho de 1965. Disciplina o mercado de capitais e estabelece medidas para o seu desenvolvimento.}},
+  Journal                  = {Diário Oficial da República Federativa do Brasil},
+  Year                     = {1965},
+
+  Month                    = {14 jul.},
+
+  Address                  = {Brasília, DF},
+  Organization             = {Brasil},
+  Url                      = {http://www.planalto.gov.br/ccivil_03/leis/L4728.htm},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Article{brasil1964a,
+  Title                    = {{Lei nº 4.357, de 16 de julho de 1964. Autoriza a emissão de Obrigações do Tesouro Nacional, altera a legislação do impôsto sôbre a renda, e dá outras providências.}},
+  Journal                  = {Diário Oficial da República Federativa do Brasil},
+  Year                     = {1964},
+
+  Month                    = {16 jul.},
+
+  Address                  = {Brasília, DF},
+  Organization             = {Brasil},
+  Url                      = {http://www.planalto.gov.br/ccivil_03/leis/L4357.htm},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Article{brasil1964b,
+  Title                    = {{Lei nº 4.380, de 21 de agosto de 1964. Institui a correção monetária nos contratos imobiliários de interêsse social, o sistema financeiro para aquisição da casa própria, cria o Banco Nacional da Habitação ({BNH}), e Sociedades de Crédito Imobiliário, as Letras Imobiliárias, o Serviço Federal de Habitação e Urbanismo e dá outras providências.}},
+  Journal                  = {Diário Oficial da República Federativa do Brasil},
+  Year                     = {1964},
+
+  Month                    = {21 ago.},
+
+  Address                  = {Brasília, DF},
+  Organization             = {Brasil},
+  Url                      = {http://www.planalto.gov.br/ccivil_03/leis/L4380.htm},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Article{brasil1964c,
+  Title                    = {{Lei nº 4.595, de 31 de dezembro de 1964. Dispõe sobre a Política e as Instituições Monetárias, Bancárias e Creditícias, Cria o Conselho Monetário Nacional e dá outras providências.}},
+  Journal                  = {Diário Oficial da República Federativa do Brasil},
+  Year                     = {1964},
+
+  Month                    = {31 dez.},
+
+  Address                  = {Brasília, DF},
+  Organization             = {Brasil},
+  Url                      = {http://www.planalto.gov.br/ccivil_03/leis/L4595.htm},
+  Urlaccessdate            = {23 mai. 2017}
+}
+
+@Misc{dudh,
+  Title                    = {{Declaração Universal dos Direitos Humanos}},
+  Month                    = {10 dez.},
+  Year                     = {1948},
+
+  Address                  = {Palais de Chaillot, Paris},
+  Org-short                = {ONU},
+  Organization             = {Nacões Unidas},
+  Url                      = {https://nacoesunidas.org/direitoshumanos/declaracao/},
+  Urlaccessdate            = {23 mai. 2017}
+}
+

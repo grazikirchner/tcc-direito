@@ -1,0 +1,74 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: xxx-Monografia.aux
+The style file: abntex2-alf.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated field_info (elt_size=4) to 10313 items from 5000.
+Database file #1: abntex2-options.bib
+Database file #2: xxx-referencias.bib
+A bad cross reference---entry "cochrane"
+refers to entry "NBEReich-4", which doesn't exist
+Warning--I didn't find a database entry for "minhasopcoes"
+Warning--I didn't find a database entry for "NBEReich-4"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Warning--campo year vazio ou faltando em drummond
+Warning--campo year vazio ou faltando em fed1
+Warning--campo year vazio ou faltando em fed2
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+You've used 76 entries,
+            6714 wiz_defined-function locations,
+            1587 strings with 21311 characters,
+and the built_in function-call counts, 96646 in all, are:
+= -- 11987
+> -- 860
+< -- 2935
++ -- 3240
+- -- 275
+* -- 5607
+:= -- 11525
+add.period$ -- 336
+call.type$ -- 76
+change.case$ -- 517
+chr.to.int$ -- 133
+cite$ -- 75
+duplicate$ -- 11028
+empty$ -- 3980
+format.name$ -- 1246
+if$ -- 19054
+int.to.chr$ -- 18
+int.to.str$ -- 0
+missing$ -- 1195
+newline$ -- 378
+num.names$ -- 246
+pop$ -- 1374
+preamble$ -- 1
+purify$ -- 234
+quote$ -- 0
+skip$ -- 10915
+stack$ -- 1
+substring$ -- 4037
+swap$ -- 3810
+text.length$ -- 64
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 2
+warning$ -- 3
+while$ -- 354
+width$ -- 0
+write$ -- 1140
+(There was 1 error message)

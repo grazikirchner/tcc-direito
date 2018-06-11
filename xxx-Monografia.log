@@ -1,0 +1,1629 @@
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.9.30)  16 MAY 2018 12:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**xxx-Monografia.tex
+(./xxx-Monografia.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2.cls
+Document Class: abntex2 2016/02/26 v-1.9.6 abnTeX2
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2015/07/08 v3.7e configurable book, report, article docu
+ment class
+\onelineskip=\skip41
+\lxvchars=\skip42
+\xlvchars=\skip43
+\@memcnta=\count79
+\c@@memmarkcntra=\count80
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+) (/usr/share/texlive/texmf-dist/tex/latex/ifetex/ifetex.sty
+Package: ifetex 2011/12/15 v1.2 ifetex
+(/usr/share/texlive/texmf-dist/tex/plain/ifetex/ifetex.tex)) (/usr/share/texliv
+e/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\stockheight=\skip44
+\stockwidth=\skip45
+\trimtop=\skip46
+\trimedge=\skip47
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem10.clo
+File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
+)
+\binding=\skip48
+\spinemargin=\skip49
+\foremargin=\skip50
+\uppermargin=\skip51
+\lowermargin=\skip52
+\headdrop=\skip53
+\normalrulethickness=\skip54
+\mem@maxheadheight=\skip55
+\mem@maxfootheight=\skip56
+\headwidth=\skip57
+\c@storedpagenumber=\count81
+\memPD=\dimen102
+\m@mabparskip=\skip58
+\thanksmarkwidth=\skip59
+\thanksmarksep=\skip60
+\droptitle=\skip61
+\c@book=\count82
+\c@part=\count83
+\c@chapter=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\beforechapskip=\skip62
+\midchapskip=\skip63
+\afterchapskip=\skip64
+\chapindent=\skip65
+\bottomsectionskip=\skip66
+\secindent=\skip67
+\beforesecskip=\skip68
+\aftersecskip=\skip69
+\subsecindent=\skip70
+\beforesubsecskip=\skip71
+\aftersubsecskip=\skip72
+\subsubsecindent=\skip73
+\beforesubsubsecskip=\skip74
+\aftersubsubsecskip=\skip75
+\paraindent=\skip76
+\beforeparaskip=\skip77
+\afterparaskip=\skip78
+\subparaindent=\skip79
+\beforesubparaskip=\skip80
+\aftersubparaskip=\skip81
+\pfbreakskip=\skip82
+\c@@ppsavesec=\count90
+\c@@ppsaveapp=\count91
+\ragrparindent=\dimen103
+\everylistparindent=\dimen104
+\parsepi=\skip83
+\topsepi=\skip84
+\itemsepi=\skip85
+\parsepii=\skip86
+\topsepii=\skip87
+\topsepiii=\skip88
+\itemsepii=\skip89
+\itemsepiii=\skip90
+\partopsepii=\skip91
+\partopsepiii=\skip92
+\m@msavetopsep=\skip93
+\m@msavepartopsep=\skip94
+\@enLab=\toks14
+\abstitleskip=\skip95
+\absleftindent=\skip96
+\abs@leftindent=\dimen105
+\absrightindent=\skip97
+\absparindent=\skip98
+\absparsep=\skip99
+\c@vslineno=\count92
+\c@poemline=\count93
+\c@modulo@vs=\count94
+\c@memfvsline=\count95
+\vleftskip=\skip100
+\vrightskip=\skip101
+\stanzaskip=\skip102
+\versewidth=\skip103
+\vgap=\skip104
+\vindent=\skip105
+\vleftmargin=\dimen106
+\c@verse=\count96
+\c@chrsinstr=\count97
+\beforepoemtitleskip=\skip106
+\afterpoemtitleskip=\skip107
+\c@poem=\count98
+\beforePoemTitleskip=\skip108
+\midPoemTitleskip=\skip109
+\afterPoemTitleskip=\skip110
+\col@sep=\dimen107
+\extrarowheight=\dimen108
+\NC@list=\toks15
+\extratabsurround=\skip111
+\backup@length=\skip112
+\TX@col@width=\dimen109
+\TX@old@table=\dimen110
+\TX@old@col=\dimen111
+\TX@target=\dimen112
+\TX@delta=\dimen113
+\TX@cols=\count99
+\TX@ftn=\toks16
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count100
+\@cmidlb=\count101
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count102
+\@lastruleclass=\count103
+\@thisrulewidth=\dimen126
+\ctableftskip=\skip113
+\ctabrightskip=\skip114
+\abovecolumnspenalty=\count104
+\@linestogo=\count105
+\@cellstogo=\count106
+\@cellsincolumn=\count107
+\crtok=\toks17
+\@mincolumnwidth=\dimen127
+\c@newflo@tctr=\count108
+\mem@margin@floatbox=\box26
+\@contcwidth=\skip115
+\@contindw=\skip116
+\abovecaptionskip=\skip117
+\belowcaptionskip=\skip118
+\subfloattopskip=\skip119
+\subfloatcapskip=\skip120
+\subfloatcaptopadj=\skip121
+\subfloatbottomskip=\skip122
+\subfloatlabelskip=\skip123
+\subfloatcapmargin=\dimen128
+\c@@contsubnum=\count109
+\m@mscap@capbox=\box27
+\m@mscap@fbox=\box28
+\sidecapsep=\dimen129
+\sidecapwidth=\dimen130
+\m@m@tempdima=\dimen131
+\m@mscapraise=\dimen132
+\sidecapraise=\dimen133
+\m@mscapmainwidth=\dimen134
+\m@mscaplkern=\dimen135
+\beforeepigraphskip=\skip124
+\afterepigraphskip=\skip125
+\epigraphwidth=\skip126
+\epigraphrule=\skip127
+LaTeX Info: Redefining \em on input line 7535.
+LaTeX Info: Redefining \emph on input line 7543.
+\tocentryskip=\skip128
+\tocbaseline=\skip129
+\cftparskip=\skip130
+\cftbeforebookskip=\skip131
+\cftbookindent=\dimen136
+\cftbooknumwidth=\dimen137
+\cftbeforepartskip=\skip132
+\cftpartindent=\skip133
+\cftpartnumwidth=\skip134
+\cftbeforechapterskip=\skip135
+\cftchapterindent=\skip136
+\cftchapternumwidth=\skip137
+\cftbeforesectionskip=\skip138
+\cftsectionindent=\skip139
+\cftsectionnumwidth=\skip140
+\cftbeforesubsectionskip=\skip141
+\cftsubsectionindent=\skip142
+\cftsubsectionnumwidth=\skip143
+\cftbeforesubsubsectionskip=\skip144
+\cftsubsubsectionindent=\skip145
+\cftsubsubsectionnumwidth=\skip146
+\cftbeforeparagraphskip=\skip147
+\cftparagraphindent=\skip148
+\cftparagraphnumwidth=\skip149
+\cftbeforesubparagraphskip=\skip150
+\cftsubparagraphindent=\skip151
+\cftsubparagraphnumwidth=\skip152
+\prechapterprecisshift=\dimen138
+\c@maxsecnumdepth=\count110
+\bibindent=\dimen139
+\bibitemsep=\skip153
+\indexcolsep=\skip154
+\indexrule=\skip155
+\indexmarkstyle=\toks18
+\@indexbox=\insert199
+\glossarycolsep=\dimen140
+\glossaryrule=\dimen141
+\sideparvshift=\skip156
+\sideins=\insert198
+\sidebartopsep=\skip157
+\sidebarhsep=\skip158
+\sidebarvsep=\skip159
+\sidebarwidth=\skip160
+\footmarkwidth=\skip161
+\footmarksep=\skip162
+\footparindent=\skip163
+\footinsdim=\skip164
+\footinsv@r=\insert197
+\@mpfootinsv@r=\insert196
+\m@m@k=\count111
+\m@m@h=\dimen142
+\m@mipn@skip=\skip165
+\sidefootins=\insert195
+\sidefootadjust=\skip166
+\sidefootheight=\skip167
+\sidefoothsep=\skip168
+\sidefootvsep=\skip169
+\sidefootwidth=\skip170
+\m@mdownsf=\skip171
+\c@sidefootnote=\count112
+\sidefootmarkwidth=\skip172
+\sidefootmarksep=\skip173
+\sidefootparindent=\skip174
+\c@pagenote=\count113
+\c@pagenoteshadow=\count114
+\mem@pn@lastkern=\skip175
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count115
+\verbatim@in@stream=\read1
+\verbatimindent=\skip176
+\verbatim@out=\write3
+\bvboxsep=\skip177
+\c@memfbvline=\count116
+\c@bvlinectr=\count117
+\bvnumlength=\skip178
+\fb@frw=\dimen143
+\fb@frh=\dimen144
+\FrameRule=\dimen145
+\FrameSep=\dimen146
+\c@cp@cntr=\count118
+LaTeX Info: Redefining \: on input line 12052.
+LaTeX Info: Redefining \! on input line 12054.
+\c@ism@mctr=\count119
+\c@xsm@mctr=\count120
+\c@csm@mctr=\count121
+\c@ksm@mctr=\count122
+\c@xksm@mctr=\count123
+\c@cksm@mctr=\count124
+\c@msm@mctr=\count125
+\c@xmsm@mctr=\count126
+\c@cmsm@mctr=\count127
+\c@bsm@mctr=\count128
+\c@workm@mctr=\count129
+\c@sheetsequence=\count130
+\c@lastsheet=\count131
+\c@lastpage=\count132
+\c@figure=\count133
+\c@lofdepth=\count134
+\cftbeforefigureskip=\skip179
+\cftfigureindent=\skip180
+\cftfigurenumwidth=\skip181
+\c@table=\count135
+\c@lotdepth=\count136
+\cftbeforetableskip=\skip182
+\cfttableindent=\skip183
+\cfttablenumwidth=\skip184
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package array [2008/09/09] emulated by memoir.
+Package booktabs [2008/07/23] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package dcolumn [2008/07/23] emulated by memoir.
+Package delarray [2008/07/23] emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package tabularx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mempatch.sty
+Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
+)) (/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+LaTeX Info: Redefining \MakeTextUppercase on input line 47.
+LaTeX Info: Redefining \MakeTextLowercase on input line 50.
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen147
+\Hy@linkcounter=\count137
+\Hy@pagecounter=\count138
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count139
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count140
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen148
+\Fld@menulength=\count141
+\Field@Width=\dimen149
+\Fld@charsize=\dimen150
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count142
+\c@Item=\count143
+\c@Hfootnote=\count144
+) (/usr/share/texlive/texmf-dist/tex/latex/memoir/memhfixc.sty
+Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
+ass
+\c@memhycontfloat=\count145
+\c@Hpagenote=\count146
+)
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2012/11/06 v6.83m Hyperref driver for XeTeX
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box29
+\c@Hy@AnnotLevel=\count147
+\HyField@AnnotCount=\count148
+\Fld@listcount=\count149
+\c@bookmark@seq@number=\count150
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+
+(rerunfilecheck)             Therefore file contents cannot be checked efficien
+tly
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip185
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/bookmark.sty
+Package: bookmark 2011/12/02 v1.24 PDF bookmarks (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/bkm-dvipdfm.def
+File: bkm-dvipdfm.def 2011/12/02 v1.24 bookmark driver for dvipdfm (HO)
+\BKM@id=\count151
+)) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/02/24 3.9q The Babel package
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/02/24 3.9q Babel common definitions
+\babel@savecnt=\count152
+\U@D=\dimen151
+(/usr/share/texlive/texmf-dist/tex/generic/babel/xebabel.def))
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+) (/usr/share/texlive/texmf-dist/tex/generic/babel-french/frenchb.ldf
+Language: frenchb 2016/02/13 v3.1l French support from the babel system
+\l@acadian = a dialect from \language\l@french 
+\l@canadien = a dialect from \language\l@french 
+\FBcolonskip=\skip186
+\FBthinskip=\skip187
+Package frenchb.ldf Info: No need for active punctuation characters
+(frenchb.ldf)             with this version of XeTeX!
+(frenchb.ldf)             reported on input line 258.
+\FB@punctthick=\XeTeXcharclass1
+\FB@punctthin=\XeTeXcharclass2
+\FB@punctnul=\XeTeXcharclass3
+\FB@guilo=\XeTeXcharclass4
+\FB@guilf=\XeTeXcharclass5
+\FB@guilnul=\XeTeXcharclass6
+\FBguillskip=\skip188
+\FBguill@level=\count153
+\FB@everypar=\toks23
+\FB@Mht=\dimen152
+LaTeX Info: Redefining \degres on input line 715.
+\std@mcc=\count154
+\dec@mcc=\count155
+\listindentFB=\skip189
+\labelwidthFB=\skip190
+\leftmarginFB=\skip191
+\parindentFFN=\dimen153
+) (/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/01/15 v5.0o Spanish support from the babel system
+\es@quottoks=\toks24
+\es@quotdepth=\count156
+Package babel Info: Making " an active character on input line 533.
+Package babel Info: Making . an active character on input line 634.
+Package babel Info: Making < an active character on input line 679.
+Package babel Info: Making > an active character on input line 679.
+) (/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+\l@brazil = a dialect from \language\l@portuges 
+)) (/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty) (/usr/share/
+texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip192
+\enit@outerparindent=\dimen154
+\enit@toks=\toks25
+\enit@inbox=\box30
+\enitdp@description=\count157
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count158
+\calc@Bcount=\count159
+\calc@Adimen=\dimen155
+\calc@Bdimen=\dimen156
+\calc@Askip=\skip193
+\calc@Bskip=\skip194
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count160
+\calc@Cskip=\skip256
+)
+
+******************************************************
+Stock height and width: 597.50787pt by 421.10078pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 597.50787pt by 421.10078pt
+Text height and width: 454pt by 278pt
+Spine and edge margins: 85.35826pt and 56.9055pt
+Upper and lower margins: 85.35826pt and 58.14961pt
+Headheight and headsep: 12pt and 18.06749pt
+Footskip: 25.29494pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 42.9055pt
+Sidecapsep and sidecapwidth: 7pt and 51pt
+Sidebarhsep and sidebarwidth: 7pt and 51pt
+Sidebarvsep and sidebartopsep: 12pt and 0pt
+Sidebarheight: 344.39996pt
+Sidefoothsep and sidefootwidth: 7pt and 51pt
+Sidefootvsep and sidefootheight: 12pt and 344.39996pt
+******************************************************
+
+\c@abntex@bookmarkcounter=\count161
+\cftlastnumwidth=\skip257
+\chapternamenumlength=\skip258
+\ABNTEXcitacaorecuo=\skip259
+\c@alineasi=\count162
+\c@alineasii=\count163
+\enitdp@alineas=\count164
+\c@subalineasi=\count165
+\enitdp@subalineas=\count166
+\c@incisosi=\count167
+\enitdp@incisos=\count168
+\ABNTEXsignwidth=\skip260
+\ABNTEXsignthickness=\skip261
+\ABNTEXsignskip=\skip262
+) (/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/01/03 v1.1b Standard LaTeX Color (DPC)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: xetex.def on input line 143.
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2015/09/11 v4.06 LaTeX color/graphics driver for XeTeX (TeX Liv
+e/RRM/JK)
+)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 95.
+)
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
+\MT@toks=\toks26
+\MT@count=\count169
+LaTeX Info: Redefining \textls on input line 766.
+\MT@outer@kern=\dimen159
+LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
+\MT@listname@count=\count170
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-xetex.def
+File: microtype-xetex.def 2013/05/23 v2.5a Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 254.
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
+)) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count171
+) (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/share/te
+xlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2016/01/19 v6377 L3 programming layer (loader) 
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2016/01/19 v6377 L3 programming layer (code)
+L3 Module: l3bootstrap 2016/01/01 v6339 L3 Bootstrap code
+L3 Module: l3names 2015/12/21 v6328 L3 Namespace for primitives
+L3 Module: l3basics 2015/11/22 v6315 L3 Basic definitions
+L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
+L3 Module: l3tl 2015/09/29 v6121 L3 Token lists
+L3 Module: l3str 2016/01/03 v6357 L3 Strings
+L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
+L3 Module: l3int 2016/01/05 v6366 L3 Integers
+\c_max_int=\count172
+\l_tmpa_int=\count173
+\l_tmpb_int=\count174
+\g_tmpa_int=\count175
+\g_tmpb_int=\count176
+L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
+L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
+\g__prg_map_int=\count177
+L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
+L3 Module: l3token 2015/11/11 v6249 L3 Experimental token manipulation
+L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
+L3 Module: l3msg 2015/09/28 v6113 L3 Messages
+L3 Module: l3file 2015/12/03 v6317 L3 File and I/O operations
+\l_iow_line_count_int=\count178
+\l__iow_target_count_int=\count179
+\l__iow_current_line_int=\count180
+\l__iow_current_word_int=\count181
+\l__iow_current_indentation_int=\count182
+L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
+\c_zero_dim=\dimen160
+\c_max_dim=\dimen161
+\l_tmpa_dim=\dimen162
+\l_tmpb_dim=\dimen163
+\g_tmpa_dim=\dimen164
+\g_tmpb_dim=\dimen165
+\c_zero_skip=\skip263
+\c_max_skip=\skip264
+\l_tmpa_skip=\skip265
+\l_tmpb_skip=\skip266
+\g_tmpa_skip=\skip267
+\g_tmpb_skip=\skip268
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
+\g__keyval_level_int=\count183
+\l_keys_choice_int=\count184
+L3 Module: l3fp 2015/08/25 v5890 L3 Floating points
+\c__fp_leading_shift_int=\count185
+\c__fp_middle_shift_int=\count186
+\c__fp_trailing_shift_int=\count187
+\c__fp_big_leading_shift_int=\count188
+\c__fp_big_middle_shift_int=\count189
+\c__fp_big_trailing_shift_int=\count190
+\c__fp_Bigg_leading_shift_int=\count191
+\c__fp_Bigg_middle_shift_int=\count192
+\c__fp_Bigg_trailing_shift_int=\count193
+L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
+\c_empty_box=\box31
+\l_tmpa_box=\box32
+\l_tmpb_box=\box33
+\g_tmpa_box=\box34
+\g_tmpb_box=\box35
+L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
+\l__coffin_internal_box=\box36
+\l__coffin_internal_dim=\dimen166
+\l__coffin_offset_x_dim=\dimen167
+\l__coffin_offset_y_dim=\dimen168
+\l__coffin_x_dim=\dimen169
+\l__coffin_y_dim=\dimen170
+\l__coffin_x_prime_dim=\dimen171
+\l__coffin_y_prime_dim=\dimen172
+\c_empty_coffin=\box37
+\l__coffin_aligned_coffin=\box38
+\l__coffin_aligned_internal_coffin=\box39
+\l_tmpa_coffin=\box40
+\l_tmpb_coffin=\box41
+\l__coffin_display_coffin=\box42
+\l__coffin_display_coord_coffin=\box43
+\l__coffin_display_pole_coffin=\box44
+\l__coffin_display_offset_dim=\dimen173
+\l__coffin_display_x_dim=\dimen174
+\l__coffin_display_y_dim=\dimen175
+L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
+L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
+L3 Module: l3candidates 2016/01/14 v6376 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen176
+\l__box_bottom_dim=\dimen177
+\l__box_left_dim=\dimen178
+\l__box_right_dim=\dimen179
+\l__box_top_new_dim=\dimen180
+\l__box_bottom_new_dim=\dimen181
+\l__box_left_new_dim=\dimen182
+\l__box_right_new_dim=\dimen183
+\l__box_internal_box=\box45
+\l__coffin_bounding_shift_dim=\dimen184
+\l__coffin_left_corner_dim=\dimen185
+\l__coffin_right_corner_dim=\dimen186
+\l__coffin_bottom_corner_dim=\dimen187
+\l__coffin_top_corner_dim=\dimen188
+\l__coffin_scaled_total_height_dim=\dimen189
+\l__coffin_scaled_width_dim=\dimen190
+L3 Module: l3luatex 2015/11/11 v6250 L3 Experimental LuaTeX-specific functions
+) (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2015/11/11 v6250 L3 Experimental driver: xdvipdfmx
+)) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2016/01/19 v6377 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count194
+\l__xparse_m_args_int=\count266
+\l__xparse_mandatory_args_int=\count267
+\l__xparse_processor_int=\count268
+\l__xparse_v_nesting_int=\count269
+)
+Package: fontspec 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
+X
+\l_fontspec_script_int=\count270
+\l_fontspec_language_int=\count271
+\l_fontspec_strnum_int=\count272
+\l__fontspec_tmpa_dim=\dimen191
+\l__fontspec_tmpb_dim=\dimen192
+\l__fontspec_tmpc_dim=\dimen193
+\g__file_internal_ior=\read2
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1enc.def
+File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
+)
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmr.fd
+File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)) (/usr/share/texlive/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+(/usr/share/texmf/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
+.
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmss.fd
+File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+\tipaTiiicode=\count273
+\tipasavetokens=\toks27
+\tipachecktokens=\toks28
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__fontspec_post_arg:w with sig. 'mmO{}' on line 353.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'om' on line 355.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'om' on line 365.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'om' on line 375.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'om' on line 385.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'om' on line 399.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'om' on line 407.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'om' on line 415.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'om' on line 423.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mom' on line 437.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mom' on line 453.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 467.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 529.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 540.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 548.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 556.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 577.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 586.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 590.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 594.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 599.
+.................................................
+\l__fontspec_tmp_int=\count274
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 2705.
+LaTeX Info: Redefining \slshape on input line 2710.
+LaTeX Info: Redefining \scshape on input line 2715.
+LaTeX Info: Redefining \upshape on input line 2720.
+\l__fontspec_em_int=\count275
+\l__fontspec_emdef_int=\count276
+LaTeX Info: Redefining \em on input line 2736.
+LaTeX Info: Redefining \emph on input line 2742.
+LaTeX Info: Redefining \- on input line 2746.
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \oldstylenums with sig. 'm' on line 2841.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \liningnums with sig. 'm' on line 2845.
+.................................................
+)) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/backref.sty
+Package: backref 2012/07/25 v1.38 Bibliographical back referencing
+) (/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2cite.sty
+Package: abntex2cite 2016/02/26 v-1.9.6 abnTeX2
+(/usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2abrev.sty)
+\minimumbiblabelwidth=\skip269
+\ABCIauxlen=\skip270
+\c@ABCIaux=\count277
+\c@ABCImax=\count278
+(/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\biblabelsep=\skip271
+LaTeX Info: Redefining \newblock on input line 591.
+LaTeX Info: Redefining \cite on input line 618.
+\ABCItoken=\toks29
+)
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font Times New Roman does not contain any OpenType `Script' information.
+.................................................
+\g__fontspec_family_TimesNewRoman_int=\count279
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'TimesNewRoman(0)' created for font 'Times New Roman' with
+. options [Ligatures=TeX].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.: <->"Times New Roman/OT:mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
+. <->"Times New Roman/B/OT:mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: - 'italic' (m/it) with NFSS
+. spec.: <->"Times New Roman/I/OT:mapping=tex-text;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: - 'bold italic' (bx/it)
+. with NFSS spec.: <->"Times New Roman/BI/OT:mapping=tex-text;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+.................................................
+
+******************************************************
+Stock height and width: 597.50787pt by 421.10078pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 597.50787pt by 421.10078pt
+Text height and width: 497.5pt by 307pt
+Spine and edge margins: 71.13188pt and 42.67912pt
+Upper and lower margins: 56.9055pt and 43.10237pt
+Headheight and headsep: 12pt and 18.06749pt
+Footskip: 25.29494pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 28.67912pt
+Sidecapsep and sidecapwidth: 7pt and 51pt
+Sidebarhsep and sidebarwidth: 7pt and 51pt
+Sidebarvsep and sidebartopsep: 12pt and 0pt
+Sidebarheight: 344.39996pt
+Sidefoothsep and sidefootwidth: 7pt and 51pt
+Sidefootvsep and sidefootheight: 12pt and 344.39996pt
+******************************************************
+
+Package color Info: Redefining color blue on input line 138.
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
+
+)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\newline' on input line 155.
+
+Package hyperref Info: Option `colorlinks' set `true' on input line 155.
+\c@quadro=\count280
+\c@loqdepth=\count281
+\cftbeforequadroskip=\skip272
+\cftquadroindent=\skip273
+\cftquadronumwidth=\skip274
+\xxx-Monografia@idxfile=\write4
+\openout4 = `xxx-Monografia.idx'.
+
+Writing index file xxx-Monografia.idx 
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+)
+\AM@pagewidth=\dimen194
+\AM@pageheight=\dimen256
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppxetex.def
+File: ppxetex.def 2015/09/18 v0.5d Pdfpages driver for XeTeX (AM)
+)
+\AM@pagebox=\box46
+\AM@toc@title=\toks30
+\c@AM@survey=\count282
+\AM@templatesizebox=\box47
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip275
+\LTright=\skip276
+\LTpre=\skip277
+\LTpost=\skip278
+\LTchunksize=\count283
+\LTcapwidth=\dimen257
+\LT@head=\box48
+\LT@firsthead=\box49
+\LT@foot=\box50
+\LT@lastfoot=\box51
+\LT@cols=\count284
+\LT@rows=\count285
+\c@LT@tables=\count286
+\c@LT@chunks=\count287
+\LT@p@ftn=\toks31
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+\LTcapskip=\skip279
+\LTcapleft=\skip280
+\LTcapright=\skip281
+) (./latexcustomizacao.sty
+Package: latexcustomizacao 2017 Criacao desta customizacao do abnTeX2
+)
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   C
+l.233 
+      
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   C
+l.233 
+      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+(./xxx-Monografia.aux)
+\openout1 = `xxx-Monografia.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 242.
+LaTeX Font Info:    ... okay on input line 242.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 242.
+LaTeX Font Info:    ... okay on input line 242.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 242.
+LaTeX Font Info:    ... okay on input line 242.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 242.
+LaTeX Font Info:    ... okay on input line 242.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 242.
+LaTeX Font Info:    ... okay on input line 242.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 242.
+LaTeX Font Info:    ... okay on input line 242.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 242.
+LaTeX Font Info:    ... okay on input line 242.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 242.
+LaTeX Font Info:    ... okay on input line 242.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 242.
+LaTeX Font Info:    ... okay on input line 242.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 242.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 242.
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 242.
+\AtBeginShipoutBox=\box52
+Package hyperref Info: Link coloring ON on input line 242.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count288
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 242.
+LaTeX Info: Redefining \ref on input line 242.
+LaTeX Info: Redefining \pageref on input line 242.
+LaTeX Info: Redefining \nameref on input line 242.
+LaTeX Info: Redefining \dots on input line 242.
+LaTeX Info: Redefining \up on input line 242.
+\myptabbox=\box53
+\myptabboxwidth=\skip282
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 242.
+LaTeX Info: Redefining \microtypecontext on input line 242.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Loading generic settings for font family
+(microtype)             `TimesNewRoman' (encoding: EU1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+.................................................
+. fontspec info: "setup-math"
+. 
+. Adjusting the maths setup (use [no-math] to avoid this).
+.................................................
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 242.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 242.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 242.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 242.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 242.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 242.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 242.
+LaTeX Font Info:    Redeclaring math accent \check on input line 242.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 242.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 242.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 242.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 242.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 242.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 242.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 242.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 242.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 242.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 242.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 242.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 242.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 242.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 242.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 242.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 242.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 242.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 242.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> EU1/TimesNewRoman(0)/m/n on input line 
+242.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 242.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> EU1/TimesNewRoman(0)/m/n on input line
+ 242.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  EU1/TimesNewRoman(0)/m/n --> EU1/TimesNewRoman(0)/m/n o
+n input line 242.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> EU1/TimesNewRoman(0)/m/it on input lin
+e 242.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> EU1/TimesNewRoman(0)/bx/n on input lin
+e 242.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 242.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 242.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  EU1/TimesNewRoman(0)/m/n --> EU1/TimesNewRoman(0)/bx/n 
+on input line 242.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> EU1/TimesNewRoman(0)/bx/it on input l
+ine 242.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 242.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 242.
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmss' (encoding: EU1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+[1
+
+] [2
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 276.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 276.
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+) [1
+
+
+] [2
+
+] [3
+
+] [4
+
+] [5] [6
+
+] [7
+
+] [8
+
+] (./xxx-Monografia.toc
+LaTeX Font Info:    Font shape `EU1/lmss/m/it' in size <9> not available
+(Font)              Font shape `EU1/lmss/m/sl' tried instead on input line 23.
+[9] [10]
+Overfull \hbox (4.85774pt too wide) in paragraph at lines 85--85
+ [][] [][][]\EU1/lmss/bx/n/10 CONCEITOS ECONÔMICOS, BREVE HISTÓRICO 
+ []
+
+
+Overfull \hbox (1.75352pt too wide) in paragraph at lines 113--113
+ [][] [][][]\EU1/lmss/bx/n/10 Principais variáveis macroeconômicas desde o Plan
+o 
+ []
+
+[11]) [12] [13
+
+
+] [14
+
+] [15] [16]
+Overfull \hbox (1.64265pt too wide) in paragraph at lines 579--583
+\EU1/TimesNewRoman(0)/m/n/10 ápice da pirâmide normativa e dotada de coercibili
+dade” ([][]\EU1/TimesNewRoman(0)/m/n/8 MORAES[][]\EU1/TimesNewRoman(0)/m/n/10 ,
+ [][]2016[][][],
+ []
+
+[17] [18] [19]
+
+Package hyperref Warning: Suppressing empty link on input line 722.
+
+
+Overfull \hbox (0.69992pt too wide) in paragraph at lines 732--737
+\EU1/TimesNewRoman(0)/m/n/9 ganização e funcionamento da economia e constituem,
+
+ []
+
+[20]
+
+Package hyperref Warning: Suppressing empty link on input line 795.
+
+[21] [22] [23]
+LaTeX Font Info:    Font shape `EU1/lmss/m/it' in size <10> not available
+(Font)              Font shape `EU1/lmss/m/sl' tried instead on input line 893.
+
+[24] [25]
+Overfull \hbox (2.58664pt too wide) in paragraph at lines 1024--1030
+\EU1/TimesNewRoman(0)/m/n/9 teis […] porque sabemos que a eficácia das leis é m
+uito
+ []
+
+[26] [27] [28]
+Overfull \hbox (0.52342pt too wide) in paragraph at lines 1145--1150
+[]\EU1/TimesNewRoman(0)/m/n/10 Segundo [][]Fortuna[][] ([][]2015[][][], p. 16),
+ “uma conceituação bastante abrangente
+ []
+
+[29] [30]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 1245.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 1245.
+
+Overfull \hbox (2.59375pt too wide) in paragraph at lines 1274--1277
+[]\EU1/TimesNewRoman(0)/m/n/10 Segundo [][]Rangel[][][], a correção monetária n
+ão foi criada com a lei 4.357/64,
+ []
+
+[31]
+Overfull \hbox (4.98752pt too wide) in paragraph at lines 1295--1301
+\EU1/TimesNewRoman(0)/m/n/9 prazo, um dos maiores sistemas de poupança do mundo
+,
+ []
+
+[32]
+Overfull \hbox (0.26953pt too wide) in paragraph at lines 1354--1358
+[]\EU1/TimesNewRoman(0)/m/n/10 Através desta lei foi “criada a Comissão de Valo
+res Mobiliários – CVM
+ []
+
+[33] [34] [35] [36]
+Overfull \hbox (7.58762pt too wide) in paragraph at lines 1556--1565
+[]\EU1/TimesNewRoman(0)/m/n/9 Este documento, que é de conhecimento público, ab
+orda
+ []
+
+
+Overfull \hbox (2.87228pt too wide) in paragraph at lines 1574--1583
+\EU1/TimesNewRoman(0)/m/it/9 tary Policy Committee \EU1/TimesNewRoman(0)/m/n/9 
+(MPC), assim como pelo Banco
+ []
+
+[37] [38]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 1674.
+[39] [40]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[41
+
+]
+Overfull \hbox (0.33517pt too wide) in paragraph at lines 1771--1778
+[]\EU1/TimesNewRoman(0)/m/n/9 Naquele mesmo ano, havia-se fundado uma sociedade
+
+ []
+
+
+Overfull \hbox (1.85715pt too wide) in paragraph at lines 1771--1778
+\EU1/TimesNewRoman(0)/m/n/9 nubiladas pelos eventos bélicos de 1914-1918, ao ca
+bo
+ []
+
+
+Overfull \hbox (11.32875pt too wide) in paragraph at lines 1800--1808
+\EU1/TimesNewRoman(0)/m/n/9 constitucional, sendo mais preciso hodiernamente re
+ferir-
+ []
+
+[42]
+Overfull \hbox (1.81313pt too wide) in paragraph at lines 1836--1844
+\EU1/TimesNewRoman(0)/m/n/9 revelando claramente que a dicotomia de Ulpiano, ca
+p-
+ []
+
+
+Overfull \hbox (2.09152pt too wide) in paragraph at lines 1836--1844
+\EU1/TimesNewRoman(0)/m/n/9 tornou-se em grande parte superada no quadro do nov
+o
+ []
+
+[43]
+Overfull \hbox (5.07826pt too wide) in paragraph at lines 1907--1913
+\EU1/TimesNewRoman(0)/m/n/9 à adequação do meio social aos comportamentos econô
+-
+ []
+
+
+Overfull \hbox (8.4797pt too wide) in paragraph at lines 1907--1913
+\EU1/TimesNewRoman(0)/m/n/9 micos, racionalmente propostos. Visam, principalmen
+te,
+ []
+
+[44] [45]
+Overfull \hbox (5.61154pt too wide) in paragraph at lines 1985--1997
+\EU1/TimesNewRoman(0)/m/n/9 da mesma. Uma vez configurado o novo instituto, mud
+a
+ []
+
+[46]
+Overfull \hbox (8.06726pt too wide) in paragraph at lines 2027--2038
+[]\EU1/TimesNewRoman(0)/m/n/9 É de praxe, na construção de modelos teóricos, pr
+oceder-
+ []
+
+[47]
+Overfull \hbox (0.1227pt too wide) in paragraph at lines 2055--2070
+[]\EU1/TimesNewRoman(0)/m/n/9 Em 1942, a Missão Cooke, enviada pelos Estados Un
+i-
+ []
+
+[48]
+Overfull \hbox (3.10152pt too wide) in paragraph at lines 2108--2126
+[]\EU1/TimesNewRoman(0)/m/n/9 A proposta de Simonsen desconsiderava integralmen
+te
+ []
+
+
+Overfull \hbox (0.57387pt too wide) in paragraph at lines 2108--2126
+\EU1/TimesNewRoman(0)/m/n/9 ria negociado dentro dos moldes de cooperação econô
+-
+ []
+
+
+Overfull \hbox (3.83754pt too wide) in paragraph at lines 2108--2126
+\EU1/TimesNewRoman(0)/m/n/9 sultante da reorganização econômica do país. Substi
+tui-
+ []
+
+
+Overfull \hbox (0.3014pt too wide) in paragraph at lines 2108--2126
+\EU1/TimesNewRoman(0)/m/n/9 presarial e o fechamento autárquico da economia, at
+ra-
+ []
+
+
+Overfull \hbox (3.0411pt too wide) in paragraph at lines 2108--2126
+\EU1/TimesNewRoman(0)/m/n/9 vés de barreiras alfandegárias ([][]\EU1/TimesNewRo
+man(0)/m/n/7.50002 RESENDE[][]\EU1/TimesNewRoman(0)/m/n/9 , [][]2017b[][][], p.
+ 24). 
+ []
+
+[49]
+Overfull \hbox (2.32297pt too wide) in paragraph at lines 2180--2191
+\EU1/TimesNewRoman(0)/m/n/9 debelá-la, foi derrotado pela concessão de um aumen
+to
+ []
+
+[50] [51] [52] [53]
+Overfull \hbox (0.30803pt too wide) in paragraph at lines 2341--2341
+[]\EU1/lmss/m/n/12 Modelos Econômicos: a relação entre desemprego, produto
+ []
+
+[54] [55]
+File: imagens/phillips.png Graphic file (type QTm)
+<use  "imagens/phillips.png" > [56]
+Underfull \hbox (badness 10000) in paragraph at lines 2464--2464
+ [][] [][][][][]\EU1/TimesNewRoman(0)/m/n/8 www.nobelprize.org/nobel_prizes/eco
+nomic-sciences/laureates/2017/popular-
+ []
+
+[57]
+Overfull \hbox (1.22844pt too wide) in paragraph at lines 2516--2522
+\EU1/TimesNewRoman(0)/m/n/9 deve aumentar e retornar à taxa natural de desempre
+go.
+ []
+
+
+Overfull \hbox (6.66925pt too wide) in paragraph at lines 2516--2522
+\EU1/TimesNewRoman(0)/m/n/9 abaixo do normal por algum tempo ([][]\EU1/TimesNew
+Roman(0)/m/n/7.50002 BLANCHARD[][]\EU1/TimesNewRoman(0)/m/n/9 , [][]2007[][][],
+
+ []
+
+
+Overfull \hbox (4.86832pt too wide) in paragraph at lines 2526--2536
+[]\EU1/TimesNewRoman(0)/m/n/10 A hipótese de Fisher, ou efeito Fisher, segundo 
+[][]Blanchard[][] ([][]2007[][][], p. 286),
+ []
+
+[58]
+File: imagens/Page-4-Image-1.png Graphic file (type QTm)
+<use  "imagens/Page-4-Image-1.png" >
+Overfull \hbox (3.32338pt too wide) in paragraph at lines 2577--2586
+\EU1/TimesNewRoman(0)/m/n/9 mentos efetivamente realizados, mais seria preciso 
+des-
+ []
+
+
+Overfull \hbox (3.07443pt too wide) in paragraph at lines 2577--2586
+\EU1/TimesNewRoman(0)/m/n/9 […] Será interessante para a empresa investir enqua
+nto
+ []
+
+[59]
+File: imagens/imagem_final.png Graphic file (type QTm)
+<use  "imagens/imagem_final.png" > [60] [61]
+Overfull \hbox (0.10164pt too wide) in paragraph at lines 2659--2663
+[]\EU1/TimesNewRoman(0)/m/n/10 É a partir desta função de maximização que [][]M
+ankiw e Weinzierl[][] ([][]2011[][][])
+ []
+
+
+Overfull \hbox (0.8552pt too wide) in paragraph at lines 2673--2696
+\EU1/TimesNewRoman(0)/m/n/9 nos princípios básicos da economia do bem-estar. Es
+ta
+ []
+
+[62]
+Overfull \hbox (1.65942pt too wide) in paragraph at lines 2722--2731
+[]\EU1/TimesNewRoman(0)/m/n/10 Utilizando uma série de modelos simples, que seg
+undo [][]Mankiw e Wein-
+ []
+
+[63] [64]
+Overfull \hbox (0.84126pt too wide) in paragraph at lines 2821--2850
+\EU1/TimesNewRoman(0)/m/n/9 quanto a economia não atingir o pleno-emprego ([][]
+\EU1/TimesNewRoman(0)/m/n/7.50002 MAN-
+ []
+
+[65] [66] [67
+
+]
+Overfull \hbox (1.59933pt too wide) in paragraph at lines 2918--2922
+[]\EU1/TimesNewRoman(0)/m/n/9 o somatório anual de todas as riquezas produzidas
+ pelo
+ []
+
+[68]
+Overfull \hbox (0.64835pt too wide) in paragraph at lines 2975--2978
+[]\EU1/TimesNewRoman(0)/bx/n/10 PIB \EU1/TimesNewRoman(0)/m/n/10 é a medida do 
+\EU1/TimesNewRoman(0)/m/it/10 produto agregado \EU1/TimesNewRoman(0)/m/n/10 nas
+ contas nacionais ([][]\EU1/TimesNewRoman(0)/m/n/8 BLANCHARD[][]\EU1/TimesNewRo
+man(0)/m/n/10 ,
+ []
+
+[69]
+Overfull \hbox (3.38554pt too wide) in paragraph at lines 3044--3048
+\EU1/TimesNewRoman(0)/m/n/10 “Belém, Fortaleza, Recife, Salvador, Belo Horizont
+e, Rio de Janeiro, São Paulo,
+ []
+
+[70]
+Overfull \hbox (9.7649pt too wide) in paragraph at lines 3067--3072
+\EU1/TimesNewRoman(0)/m/it/9 cellerating Inflation Rate of Unemployment\EU1/Tim
+esNewRoman(0)/m/n/9 , ou \EU1/TimesNewRoman(0)/bx/n/9 NAIRU\EU1/TimesNewRoman(0
+)/m/n/9 ) 
+ []
+
+[71] [72]
+Underfull \hbox (badness 10000) in paragraph at lines 3196--3196
+ [][] [][][][][]\EU1/TimesNewRoman(0)/m/n/8 epocanegocios.globo.com/Economia/no
+ticia/2016/09/entenda-diferenca-entre-divida-
+ []
+
+[73]
+File: imagens/IPCA-1.png Graphic file (type QTm)
+<use  "imagens/IPCA-1.png" >
+File: imagens/IPCA_anual-1.png Graphic file (type QTm)
+<use  "imagens/IPCA_anual-1.png" >
+File: imagens/cambio_nominal-1.png Graphic file (type QTm)
+<use  "imagens/cambio_nominal-1.png" >
+File: imagens/cambio_real-1.png Graphic file (type QTm)
+<use  "imagens/cambio_real-1.png" >
+File: imagens/PIB-1.png Graphic file (type QTm)
+<use  "imagens/PIB-1.png" >
+File: imagens/PIB_anual.png Graphic file (type QTm)
+<use  "imagens/PIB_anual.png" >
+File: imagens/selic-1.png Graphic file (type QTm)
+<use  "imagens/selic-1.png" > [74] [75] [76]
+File: imagens/juro_real-1.png Graphic file (type QTm)
+<use  "imagens/juro_real-1.png" >
+File: imagens/juro_real_anual-1.png Graphic file (type QTm)
+<use  "imagens/juro_real_anual-1.png" >
+File: imagens/dif_juros.png Graphic file (type QTm)
+<use  "imagens/dif_juros.png" >
+File: imagens/divida_liquida-1.png Graphic file (type QTm)
+<use  "imagens/divida_liquida-1.png" >
+File: imagens/divida_liquida_GF-1.png Graphic file (type QTm)
+<use  "imagens/divida_liquida_GF-1.png" >
+File: imagens/divida_liquida_BC-1.png Graphic file (type QTm)
+<use  "imagens/divida_liquida_BC-1.png" >
+File: imagens/dividapib-1.png Graphic file (type QTm)
+<use  "imagens/dividapib-1.png" >
+Underfull \vbox (badness 5893) has occurred while \output is active []
+
+[77] [78] [79] [80] [81]
+File: imagens/desemprego1-1.png Graphic file (type QTm)
+<use  "imagens/desemprego1-1.png" >
+File: imagens/desemprego2-1.png Graphic file (type QTm)
+<use  "imagens/desemprego2-1.png" >
+File: imagens/desemprego3-1.png Graphic file (type QTm)
+<use  "imagens/desemprego3-1.png" > [82] [83]
+Overfull \hbox (1.83443pt too wide) in paragraph at lines 3436--3441
+[]\EU1/TimesNewRoman(0)/m/n/9 O debate entre monetaristas e keynesianos, da seg
+unda
+ []
+
+
+Overfull \hbox (5.35373pt too wide) in paragraph at lines 3436--3441
+\EU1/TimesNewRoman(0)/m/n/9 keynesiano. Com o reconhecimento de que instrumento
+
+ []
+
+[84] [85] [86]
+Overfull \hbox (5.53383pt too wide) in paragraph at lines 3581--3586
+[]\EU1/TimesNewRoman(0)/m/n/9 a crise financeira recente aparentemente provocou
+ fenô-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[87] [88]
+! Undefined control sequence.
+l.3685 \citea
+             {barbosa} afirma que ``o Brasil tem a mais alta taxa básica de
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[89] [90]
+Overfull \hbox (0.3351pt too wide) in paragraph at lines 3715--3719
+\EU1/TimesNewRoman(0)/m/n/9 Se estivermos certos no fundamental – ou seja, se a
+cre-
+ []
+
+[91
+
+] [92]
+Underfull \vbox (badness 1762) has occurred while \output is active []
+
+[93] (./xxx-Monografia.bbl (./xxx-Monografia.brf)
+\tf@brf=\write5
+\openout5 = `xxx-Monografia.brf'.
+
+[94]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\uppercase' on input line 3.
+
+bibitemlist
+[95
+
+] [96] [97] [98] [99] [100] [101]) 
+AED: lastpage setting LastPage
+[102]
+\tf@toc=\write6
+\openout6 = `xxx-Monografia.toc'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3900.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3900.
+(./xxx-Monografia.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 3900.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 3900.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3900.
+ ) 
+Here is how much of TeX's memory you used:
+ 30156 strings out of 493638
+ 518355 string characters out of 6146796
+ 740527 words of memory out of 5000000
+ 33266 multiletter control sequences out of 15000+600000
+ 7015 words of font info for 59 fonts, out of 8000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 39i,12n,61p,10354b,698s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on xxx-Monografia.pdf (104 pages).

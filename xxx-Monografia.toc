@@ -1,0 +1,126 @@
+\changetocdepth {4}
+\select@language {brazil}
+\select@language {brazil}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{Introdução}{13}{chapter*.6}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {O Direito e a Economia}}{15}{chapter.1}
+\contentsline {section}{\numberline {1.1}Conceitos de Estado e Constituição}{15}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Estado de Direito e Estado Democrático de Direito}{16}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Conceito de constituição e a CF-88}{17}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}Do direito ao trabalho e à livre iniciativa}{18}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Declaração Universal de Direitos Humanos}{18}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Constituição Federal de 1988}{18}{subsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.2.1}Fundamentos da República Federativa do Brasil}{19}{subsubsection.1.2.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2.2}Objetivos fundamentais}{19}{subsubsection.1.2.2.2}
+\contentsline {subsubsection}{\numberline {1.2.2.3}Diretos Sociais}{20}{subsubsection.1.2.2.3}
+\contentsline {subsection}{\numberline {1.2.3}A Constituição Econômica}{20}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}Direito e Economia}{22}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}As ciências sociais ou humanas}{22}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}O Conceito de Economia}{23}{subsection.1.3.2}
+\contentsline {subsubsection}{\numberline {1.3.2.1}Os vários significados do termo \emph {economia}}{24}{subsubsection.1.3.2.1}
+\contentsline {subsubsection}{\numberline {1.3.2.2}A economia como atividade}{24}{subsubsection.1.3.2.2}
+\contentsline {subsubsection}{\numberline {1.3.2.3}A economia como ciência}{24}{subsubsection.1.3.2.3}
+\contentsline {subsection}{\numberline {1.3.3}A Economia como Ciência Social}{25}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}A Economia e o Direito}{26}{subsection.1.3.4}
+\contentsline {section}{\numberline {1.4}Legislação e competências}{28}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Sistema Financeiro Nacional}{29}{subsection.1.4.1}
+\contentsline {subsubsection}{\numberline {1.4.1.1}Conceituação}{29}{subsubsection.1.4.1.1}
+\contentsline {subsubsection}{\numberline {1.4.1.2}Origem e Evolução Histórica}{30}{subsubsection.1.4.1.2}
+\contentsline {subsubsection}{\numberline {1.4.1.3}Estrutura legal}{30}{subsubsection.1.4.1.3}
+\contentsline {subsubsection}{\numberline {1.4.1.4}A Lei da Correção Monetária}{31}{subsubsection.1.4.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1.5}A Lei do Plano Nacional de Habitação}{32}{subsubsection.1.4.1.5}
+\contentsline {subsubsection}{\numberline {1.4.1.6}Lei da Reforma do Sistema Financeiro Nacional}{32}{subsubsection.1.4.1.6}
+\contentsline {subsubsection}{\numberline {1.4.1.7}Lei do Mercado de Capitais}{33}{subsubsection.1.4.1.7}
+\contentsline {subsubsection}{\numberline {1.4.1.8}Lei da CVM}{33}{subsubsection.1.4.1.8}
+\contentsline {subsubsection}{\numberline {1.4.1.9}Lei das S.A.}{33}{subsubsection.1.4.1.9}
+\contentsline {subsubsection}{\numberline {1.4.1.10}Nova lei das S.A., decreto 3.995/01 e Lei 10.411/02}{33}{subsubsection.1.4.1.10}
+\contentsline {subsection}{\numberline {1.4.2}Autoridades Monetárias}{33}{subsection.1.4.2}
+\contentsline {subsubsection}{\numberline {1.4.2.1}Conselho Monetário Nacional (CMN)}{33}{subsubsection.1.4.2.1}
+\contentsline {subsubsection}{\numberline {1.4.2.2}Banco Central do Brasil -- BC ou Bacen}{35}{subsubsection.1.4.2.2}
+\contentsline {subsection}{\numberline {1.4.3}A Política Monetária no Brasil}{36}{subsection.1.4.3}
+\contentsline {subsubsection}{\numberline {1.4.3.1}Metas de inflação}{36}{subsubsection.1.4.3.1}
+\contentsline {subsubsection}{\numberline {1.4.3.2}Copom}{37}{subsubsection.1.4.3.2}
+\contentsline {subsection}{\numberline {1.4.4}A Política Monetária no mundo}{37}{subsection.1.4.4}
+\contentsline {subsubsection}{\numberline {1.4.4.1}Estados Unidos da América -- EUA}{38}{subsubsection.1.4.4.1}
+\contentsline {subsubsection}{\numberline {1.4.4.2}O Federal Open Market Committee -- FOMC}{38}{subsubsection.1.4.4.2}
+\contentsline {subsubsection}{\numberline {1.4.4.3}O Federal Reserve Board of Governors}{39}{subsubsection.1.4.4.3}
+\contentsline {subsubsection}{\numberline {1.4.4.4}O Federal Reserve Act}{39}{subsubsection.1.4.4.4}
+\contentsline {subsubsection}{\numberline {1.4.4.5}Metas de Inflação nos EUA}{40}{subsubsection.1.4.4.5}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {História do Direito Econômico e Economia Contemporânea}}{41}{chapter.2}
+\contentsline {section}{\numberline {2.1}História do Direito Econômico}{42}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}A ordem econômica constitucional e a definição de constituição econômica}{42}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}A transversalidade do Direito Econômico}{43}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}As diferentes escolas de pensamento do Direito Econômico}{44}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}A Economia segundo o Direito Econômico}{44}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}O Direito Econômico no plano metodológico}{45}{subsection.2.1.5}
+\contentsline {section}{\numberline {2.2}Estado e forma política}{45}{section.2.2}
+\contentsline {section}{\numberline {2.3}História Econômica do Brasil nos século XX e XXI}{47}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Conflitos ideológicos: Desenvolvimentistas vs.~Liberais}{48}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Inflação e crise}{50}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}A Teoria Quantitativa da Moeda e a historicidade das leis econômicas}{52}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Modelos Econômicos: a relação entre desemprego, produto e inflação}{54}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Modelo IS-LM}{55}{subsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.1.1}Relação IS}{55}{subsubsection.2.4.1.1}
+\contentsline {subsubsection}{\numberline {2.4.1.2}Curva IS}{55}{subsubsection.2.4.1.2}
+\contentsline {subsubsection}{\numberline {2.4.1.3}Relação LM}{55}{subsubsection.2.4.1.3}
+\contentsline {subsubsection}{\numberline {2.4.1.4}Curva LM}{55}{subsubsection.2.4.1.4}
+\contentsline {subsection}{\numberline {2.4.2}Curva de Phillips}{55}{subsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.2.1}O inexorável \emph {trade-off} entre inflação e desemprego}{57}{subsubsection.2.4.2.1}
+\contentsline {subsection}{\numberline {2.4.3}Lei de Okun}{57}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Hipótese de Fisher}{58}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}A função investimento e a eficiência marginal do capital}{58}{subsection.2.4.5}
+\contentsline {section}{\numberline {2.5}A Economia do Bem-Estar Social e as políticas ótimas de estabilização}{61}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Função-objetivo do bem-estar do cidadão (ou famílias)}{61}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Economia do Bem-Estar Social}{62}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Políticas ótimas de estabilização}{62}{subsection.2.5.3}
+\contentsline {subsubsection}{\numberline {2.5.3.1}Primeira Hipótese: Política Monetária Convencional disponível}{63}{subsubsection.2.5.3.1}
+\contentsline {subsubsection}{\numberline {2.5.3.2}Segundo Hipótese: Política Monetária Convencional indisponível}{64}{subsubsection.2.5.3.2}
+\contentsline {subsubsection}{\numberline {2.5.3.3}Terceira Hipótese: Política Monetária totalmente esgotada}{64}{subsubsection.2.5.3.3}
+\contentsline {subsection}{\numberline {2.5.4}Quarta Hipótese: a Política Fiscal convencional}{64}{subsection.2.5.4}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Conceitos Econômicos, Breve Histórico e Debate dos Juros}}{67}{chapter.3}
+\contentsline {section}{\numberline {3.1}Conceitos das principais variáveis econômicas}{67}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Econometria}{67}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Macroeconomia}{68}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Medidas de nível do produto}{69}{subsection.3.1.3}
+\contentsline {subsubsection}{\numberline {3.1.3.1}PIB real e PIB nominal}{69}{subsubsection.3.1.3.1}
+\contentsline {subsubsection}{\numberline {3.1.3.2}Deflator do PIB}{69}{subsubsection.3.1.3.2}
+\contentsline {subsubsection}{\numberline {3.1.3.3}PIB e PNB}{69}{subsubsection.3.1.3.3}
+\contentsline {subsection}{\numberline {3.1.4}Inflação, taxa de inflação e índices de preços}{70}{subsection.3.1.4}
+\contentsline {subsubsection}{\numberline {3.1.4.1}IPCA}{70}{subsubsection.3.1.4.1}
+\contentsline {subsection}{\numberline {3.1.5}Emprego, desemprego e taxa de desemprego}{70}{subsection.3.1.5}
+\contentsline {subsubsection}{\numberline {3.1.5.1}Taxa de desemprego natural}{71}{subsubsection.3.1.5.1}
+\contentsline {subsubsection}{\numberline {3.1.5.2}Nível Natural do Emprego}{71}{subsubsection.3.1.5.2}
+\contentsline {subsubsection}{\numberline {3.1.5.3}Nível Natural do Produto}{71}{subsubsection.3.1.5.3}
+\contentsline {subsection}{\numberline {3.1.6}Taxas de juros}{71}{subsection.3.1.6}
+\contentsline {subsubsection}{\numberline {3.1.6.1}Taxa nominal de juros vs.~taxa real de juros}{71}{subsubsection.3.1.6.1}
+\contentsline {subsubsection}{\numberline {3.1.6.2}Relação entre taxa nominal e taxa real de juros}{71}{subsubsection.3.1.6.2}
+\contentsline {subsubsection}{\numberline {3.1.6.3}Taxa de juros reais \emph {ex-ante} e taxa de juros reais \emph {ex-post}}{72}{subsubsection.3.1.6.3}
+\contentsline {subsubsection}{\numberline {3.1.6.4}Taxa básica de juros ou taxa Selic}{72}{subsubsection.3.1.6.4}
+\contentsline {subsection}{\numberline {3.1.7}Taxas de câmbio}{72}{subsection.3.1.7}
+\contentsline {subsubsection}{\numberline {3.1.7.1}Taxa de câmbio nominal}{72}{subsubsection.3.1.7.1}
+\contentsline {subsubsection}{\numberline {3.1.7.2}Taxa de câmbio real}{73}{subsubsection.3.1.7.2}
+\contentsline {subsubsection}{\numberline {3.1.7.3}Taxa de câmbio multilateral (taxa real de câmbio multilateral)}{73}{subsubsection.3.1.7.3}
+\contentsline {subsection}{\numberline {3.1.8}Dívida Pública Federal}{73}{subsection.3.1.8}
+\contentsline {subsubsection}{\numberline {3.1.8.1}Dívida Bruta}{73}{subsubsection.3.1.8.1}
+\contentsline {subsubsection}{\numberline {3.1.8.2}Dívida Líquida}{73}{subsubsection.3.1.8.2}
+\contentsline {subsubsection}{\numberline {3.1.8.3}Razão dívida-PIB}{73}{subsubsection.3.1.8.3}
+\contentsline {subsubsection}{\numberline {3.1.8.4}Restrição orçamentária do governo}{73}{subsubsection.3.1.8.4}
+\contentsline {section}{\numberline {3.2}Principais variáveis macroeconômicas desde o Plano Real}{74}{section.3.2}
+\contentsline {section}{\numberline {3.3}O debate dos juros}{82}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}André Lara Resende: primeiro artigo}{82}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Marcos Lisboa e Samule Pessoa: a réplica}{85}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}André Lara Resende: a tréplica}{86}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}José Júlio Senna: política monetária na armadilha de liquidez -- o primeiro QE.}{86}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Francisco Lopes: outros fatores determinantes da inflação}{88}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Nelson Barbosa: a evolução da taxa de juros reais no Brasil e a eficácia da expectativa da inflação}{89}{subsection.3.3.6}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Discussão}}{91}{chapter.4}
+\vspace {\cftbeforechapterskip }
+\vspace {\cftbeforechapterskip }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\uppercase {Refer\^encias}}{95}{section*.10}
