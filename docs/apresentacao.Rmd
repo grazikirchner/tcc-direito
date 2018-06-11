@@ -26,6 +26,12 @@ class: inverse, center, middle
 
 ---
 
+layout: true
+
+background-color: #CEF6D8
+
+---
+
 # A Economia e o Direito
 
 --
@@ -217,6 +223,7 @@ class: center, middle
 
 ---
 
+layout: false
 
 class: inverse, center, middle
 
