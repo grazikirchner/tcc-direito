@@ -1,7 +1,9 @@
 ---
 title: "Direito Constitucional"
 subtitle: "Dos Princípios Fundamentais à Constituição Econômica"
-author: "Inês Grazieli Kirchner"
+author: 
+- "Inês Grazieli Kirchner"
+- "Orientador: Prof. Ricardo Espíndola"
 date: "11/06/2018"
 output:
   xaringan::moon_reader:
@@ -110,6 +112,10 @@ class: inverse, center, middle
 
 * Garantia do pleno-emprego;
 
+--
+
+.image-70[![Teste](http://saldopositivo.cgd.pt/assets/2014/01/subsartigo.jpg)]
+
 ---
 
 # Comparação decreto sobre inflação no Brasil com norte-americano (FED)
@@ -118,41 +124,100 @@ class: inverse, center, middle
 
 * Promoção do pleno-emprego;
 
--- 
+--
 
 > O Conselho de Governadores do Sistema do Federal Reserve e o Federal Open Market Committee manterão o crescimento de longo prazo dos agregados monetários e de crédito compatíveis com o potencial de longo prazo da economia para aumentar a produção, de modo a **promover eficazmente os objetivos de máximo emprego, preços estáveis, e taxas de juros de longo prazo moderadas**.
 
 ---
+class: center, middle
 
-# André Lara Resende
+.image-70[![Desemprego1](https://github.com/grazikirchner/tcc-direito/blob/master/imagens/desemprego2-1.png?raw=true)]
+
+.image-70[![Desemprego2](https://github.com/grazikirchner/tcc-direito/blob/master/imagens/desemprego3-1.png?raw=true)]
+
+---
+
+# Debate dos Juros Altos no Brasil
 
 --
 
-* Artigo;
+* Artigo de André Lara Resende;
+ - Iniciou um grande debate econômico no Brasil
 
 --
 
-* Debate 2017;
+* Este debate parece ser muito importante para ficar restrito aos economistas;
 
-* Prêmio Nobel 2017;
 
-* Expectativas Racionais;
+--
+
+![ordemeprogresso](http://www.blogolandialtda.com.br/img-upload/images/economia-brasileira-3.jpg)
 
 ---
 
 # Populismo
 
+--
+
+.pull-left[
+
 * Fiscal;
 
 * Cambial;
+]
+
+--
+
+.pull-right[
+.image-90[![Populismo](https://abrilexame.files.wordpress.com/2018/06/capa-exame-1163.jpg)]
+]
+---
+
+# Medidas para fomentar a Economia nacional
+
+--
+
+## Política fiscal *vs.* política monetária 
+
+--
+
+* O inexorável *trade-off* entre desemprego e inflação
 
 ---
 
-# ADI
+# DISCUSSÃO
+
+--
+
+* Norma regulamentadora para o BC;
+
+--
+
+* Greve dos caminhoneiros;
+
+--
+
+* ADI.
 
 ---
 
 # CONCLUSÃO
 
-* Medidas para fomentar a economia nacional
-* Norma regulamentadora para o BC.
+--
+
+* É preciso entender que não basta que o índice de inflação caia, é preciso também uma taxa de juros mais baixa no longo prazo;
+
+--
+
+* Adoção de uma política monetária expansionista, que vise incentivar a economia em tempos de crise econômica;
+
+--
+
+![](https://i.pinimg.com/originals/28/91/41/2891418cf96d90ecc262aa4ba43bf8b8.jpg)
+
+---
+
+
+class: inverse, center, middle
+
+# Obrigada!
